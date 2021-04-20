@@ -1,4 +1,4 @@
-# Перевод мода Mimic Mod для игры Slay The Spire.
+# Перевод мода Mimic Mod для игры Slay The Spire. Автор перевода: Fractal cat.
 
 Оригинальный мод: https://steamcommunity.com/sharedfiles/filedetails/?id=1611657817
 
