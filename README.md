@@ -10,6 +10,6 @@
 
 -в архиве открыть папку по пути MimicMod.jar\localization\mimic;
 
--заменить файлы в папке mimic файлами архива The-Bug-Knight-main (кроме README);
+-заменить файлы в папке mimic файлами архива Mimic-Mod-RUS-main (кроме README);
 
 -Играть!
