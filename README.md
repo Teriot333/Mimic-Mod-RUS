@@ -8,8 +8,8 @@
 
 -открыть файл MimicMod.jar редактором архивов (winzip, winrar, 7z);
 
--в архиве открыть папку по пути MimicMod.jar\localization\mimic;
+-в архиве открыть папку по пути MimicMod.jar\localization;
 
--заменить файлы в папке mimic файлами архива Mimic-Mod-RUS-main (кроме README);
+-заменить папку mimic папкой mimic архива Mimic-Mod-RUS-main;
 
 -Играть!
