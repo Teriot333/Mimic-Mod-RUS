@@ -13,3 +13,5 @@
 -заменить папку mimic папкой mimic архива Mimic-Mod-RUS-main;
 
 -Играть!
+
+Видео инструкция: https://www.youtube.com/watch?v=bBMtYdGAk0g
